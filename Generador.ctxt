@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Generador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Laberinto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ x
+comment1.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String)
+comment2.params=a\ b\ res\ aux1\ aux2
+comment2.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String[],\ boolean,\ int,\ int)
+comment3.params=c\ b\ aux1\ aux2
+comment3.target=boolean\ nue(java.lang.String[],\ java.lang.String[],\ int,\ int)
+comment4.params=b\ x\ aux
+comment4.target=java.lang.String[]\ llenar(java.lang.String[],\ java.lang.String,\ int)
+numComments=5
